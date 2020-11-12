@@ -3,3 +3,6 @@ This is a rainbow poem
 red
 gree
 blue
+
+yellow
+purple
